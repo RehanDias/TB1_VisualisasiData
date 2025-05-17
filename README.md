@@ -1,4 +1,4 @@
-# Analisis Pasar Petani (FARMER.py)
+
 
 ## Gambaran Umum
 Script Python ini menganalisis data pasar petani di seluruh Amerika Serikat, memberikan wawasan tentang distribusi pasar, penawaran produk, dan pola regional. Analisis ini menggunakan dataset yang telah dibersihkan (`markets_cleaned.csv`) yang berisi informasi tentang pasar petani di berbagai negara bagian.
