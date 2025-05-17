@@ -12,7 +12,6 @@ Script Python ini menganalisis data pasar petani di seluruh Amerika Serikat, mem
   - seaborn
   - folium
   - geopandas
-  - branca
 
 ## Fitur
 Analisis ini mencakup:
