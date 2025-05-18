@@ -110,6 +110,4 @@ Analisis ini menghasilkan berbagai visualisasi, antara lain:
 * Peta interaktif pasar petani
 * Plot distribusi durasi dan efisiensi operasional
 
----
 
-Jika Anda ingin, saya juga bisa bantu menyisipkan bagian ini langsung ke dalam file `.ipynb` yang Anda punya. Silakan unggah file-nya jika diperlukan.
